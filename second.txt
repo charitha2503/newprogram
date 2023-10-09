@@ -1,1 +1,2 @@
 file2 is created
+this is new file
